@@ -3,3 +3,4 @@
 ## Equipe
 - Mychel Lucas  
 - Kaio Dayvison 
+- Pedro Henrique
